@@ -1,0 +1,1 @@
+print(' '.join(sorted(set([num[1] for num in filter(lambda x: (int(x[0]) + 1) % 3 == 0 and int(x[1]) % 3 == 0, enumerate([x for x in input().split(' ')]))]))))
