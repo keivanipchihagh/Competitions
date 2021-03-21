@@ -1,2 +1,2 @@
 # Kaggle-Competitions
- A repository for my competition datasets & models
+A repository for competition codes for Kaggle, Quera, Codeforces, …
